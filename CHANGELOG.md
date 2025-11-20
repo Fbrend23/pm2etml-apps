@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.57.0](https://github.com/jonathanMelly/pm2etml-apps/compare/v1.56.0...v1.57.0) (2025-11-20)
+
+
+### Features
+
+* **eval:** auto pdfs dispatcher ([932291b](https://github.com/jonathanMelly/pm2etml-apps/commit/932291b8911f1e09c1c40733c4d1cea80d5f6f67))
+
 ## [1.56.0](https://github.com/jonathanMelly/pm2etml-apps/compare/v1.55.1...v1.56.0) (2025-11-06)
 
 
