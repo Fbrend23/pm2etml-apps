@@ -10,4 +10,4 @@ updates:
     schedule:
       interval: "weekly"
     ignore:
-      - dependency-type: "development"
+      - dependency-name: "devDependencies"
